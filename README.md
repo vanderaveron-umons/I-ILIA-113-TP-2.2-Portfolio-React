@@ -6,7 +6,7 @@ Le site est déployé sur Netlifly et [est disponible ici](https://rococo-gecko-
 Ce repository est lié a Netlifly et un système d'intégration continue est configuré.
 
 Le status du dernier déploiement est : [![Netlify Status](https://api.netlify.com/api/v1/badges/55b2eb74-0bc0-4b36-aa3a-f0656f996ef3/deploy-status)](https://app.netlify.com/sites/rococo-gecko-ce9483/deploys)
-![screenshot](https://user-images.githubusercontent.com/18350557/176953627-cd79fe83-0b84-4082-b79e-cc88da28f2e1.png)
+
 
 ## Modifications
 Ce projet est dérivé du projet [React Portfolio Template](https://reactportfoliotemplate.paytonpierce.dev/)
