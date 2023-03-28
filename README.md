@@ -12,6 +12,7 @@ Le status du dernier déploiement est : [![Netlify Status](https://api.netlify.c
 Ce projet est dérivé du projet [React Portfolio Template](https://reactportfoliotemplate.paytonpierce.dev/)
 
 Les modifications apportées sont les suivantes :
+- Titre et mots-clef
 - Traduction des élémentes principaux en français
 - Ajout d'un composant React pour afficher un email cliquable qui s'ouvre dans l'application de courrier par défaut
 - Ajout d'un composant React pour afficher une liste de certifications
